@@ -1,2 +1,6 @@
-This is a test file Wiihoo
+This is a test file Wiihoo 
+
+Testing if the file works. Can you read this: yes/no
+
+If yes the test passed!
 
